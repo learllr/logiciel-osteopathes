@@ -1,0 +1,16 @@
+{
+  "name": "logiciel-osteopathes",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "dev": "electron ."
+  },
+  "devDependencies": {
+    "@electron/packager": "^18.3.4",
+    "electron": "^32.0.2"
+  },
+  "dependencies": {
+    "openai": "^4.60.0"
+  }
+}
